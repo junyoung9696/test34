@@ -79,7 +79,6 @@ function SideBar() {
 				<label className="whites mx-2 flex h-fit w-full cursor-pointer p-0 hover:bg-gray-4" tabIndex="0">
 					<div className="flex flex-row gap-4 p-4">
 						<div className="avatar avatar-md">
-							<img src="https://i.pravatar.cc/150?img=30" alt="avatar" />
 						</div>
 
 						<div className="flex flex-col">

@@ -6,7 +6,7 @@ import NavbarRed from "@/components/NavbarRed";
 import SideBar from "@/components/Sidebar";
 
 // 
-
+/* eslint-disable */
 function vrar() {
   return (
     <>
